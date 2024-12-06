@@ -12,9 +12,9 @@ Types and Variables</a></h3>
 <h3>6.<a href="https://github.com/fandakov/JavaFundamentals-2024/tree/93d75f786babf07e02492c9a775e640ec55f7177/src/MidExam"> MidExam</a></h3>
 <h3>7.<a href="https://github.com/fandakov/JavaFundamentals-2024/tree/d409e7231cc55b78e873e76f31491a37a29ec33c/src/ObjectAndClasses"> ObjectAndClasses</a></h3>
 <h3>8.<a href="https://github.com/fandakov/JavaFundamentals-2024/tree/d409e7231cc55b78e873e76f31491a37a29ec33c/src/AssociativeArraysExercise"> Associative Arrays, Lambda and Stream API</a></h3>
-<h3>9.<a href=""> Text Processing</a></h3>
-<h3>10.<a href=""> Regular Expressions</a></h3>
-<h3>11.<a href=""> Final Exam</a></h3>
+<h3>9.<a href="https://github.com/fandakov/JavaFundamentals-2024/tree/7229b6682e27248e03a8d4d6d6fe5987c2ef54ab/src/TextProcessing"> Text Processing</a></h3>
+<h3>10.<a href="https://github.com/fandakov/JavaFundamentals-2024/tree/7229b6682e27248e03a8d4d6d6fe5987c2ef54ab/src/RegularExpressions"> Regular Expressions</a></h3>
+<h3>11.<a href="https://github.com/fandakov/JavaFundamentals-2024/tree/7229b6682e27248e03a8d4d6d6fe5987c2ef54ab/src/FinalExam"> Final Exam</a></h3>
 
 <h1> Projects</h1>
 <h3>1.<a href="https://github.com/fandakov/JavaFundamentals-2024/blob/d409e7231cc55b78e873e76f31491a37a29ec33c/src/ProjectsJava/RockPaperScissors.java"> "Rock - paper - scissors"</a></h3>
